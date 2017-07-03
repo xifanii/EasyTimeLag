@@ -1,0 +1,410 @@
+[
+{
+"id": "Aberdeen",
+"firstChar": "A",
+"diffTime": -8,
+"nationName": "英国",
+"cityName": "阿伯丁",
+"logo": "flag_of_united_kingdom"
+},
+{
+"id": "Amsterdam",
+"firstChar": "A",
+"diffTime": -7,
+"nationName": "荷兰",
+"cityName": "阿姆斯特丹",
+"logo": "flag_of_netherlands"
+},
+{
+"id": "Antwerp",
+"firstChar": "A",
+"diffTime": -7,
+"nationName": "比利时",
+"cityName": "安特卫普",
+"logo": "flag_of_belgium"
+},
+{
+"id": "Athens",
+"firstChar": "A",
+"diffTime": -6,
+"nationName": "希腊",
+"cityName": "雅典",
+"logo": "flag_of_greece"
+},
+{
+"id": "Belfast",
+"firstChar": "B",
+"diffTime": -8,
+"nationName": "英国",
+"cityName": "贝尔法斯特",
+"logo": "flag_of_united_kingdom"
+},
+{
+"id": "Belgrade",
+"firstChar": "B",
+"diffTime": -7,
+"nationName": "南斯拉夫",
+"cityName": "贝尔格莱德",
+"logo": ""
+},
+{
+"id": "Berlin",
+"firstChar": "B",
+"diffTime": -7,
+"nationName": "德国",
+"cityName": "柏林",
+"logo": "flag_of_germany"
+},
+{
+"id": "Birmingham",
+"firstChar": "B",
+"diffTime": -8,
+"nationName": "英国",
+"cityName": "伯明翰",
+"logo": "flag_of_united_kingdom"
+},
+{
+"id": "Bonn",
+"firstChar": "B",
+"diffTime": -7,
+"nationName": "德国",
+"cityName": "波恩",
+"logo": "flag_of_germany"
+},
+{
+"id": "Brussels",
+"firstChar": "B",
+"diffTime": -7,
+"nationName": "比利时",
+"cityName": "布鲁塞尔",
+"logo": "flag_of_belgium"
+},
+{
+"id": "Bucharest",
+"firstChar": "B",
+"diffTime": -6,
+"nationName": "罗马尼亚",
+"cityName": "布加勒斯特",
+"logo": "flag_of_romania"
+},
+{
+"id": "Budapest",
+"firstChar": "B",
+"diffTime": -7,
+"nationName": "匈牙利",
+"cityName": "布达佩斯",
+"logo": "flag_of_hungary"
+},
+{
+"id": "Constantsa",
+"firstChar": "K",
+"diffTime": -6,
+"nationName": "罗马尼亚",
+"cityName": "康斯坦萨",
+"logo": "flag_of_romania"
+},
+{
+"id": "Copenhagen",
+"firstChar": "G",
+"diffTime": -7,
+"nationName": "丹麦",
+"cityName": "哥本哈根",
+"logo": "flag_of_denmark"
+},
+{
+"id": "Dublin",
+"firstChar": "D",
+"diffTime": -8,
+"nationName": "爱尔兰",
+"cityName": "都柏林",
+"logo": "flag_of_ireland"
+},
+{
+"id": "Edinburgh",
+"firstChar": "A",
+"diffTime": -8,
+"nationName": "英国",
+"cityName": "爱丁堡",
+"logo": "flag_of_united_kingdom"
+},
+{
+"id": "Frankfurt",
+"firstChar": "F",
+"diffTime": -7,
+"nationName": "德国",
+"cityName": "法兰克福",
+"logo": "flag_of_germany"
+},
+{
+"id": "Gdansk",
+"firstChar": "G",
+"diffTime": -7,
+"nationName": "波兰",
+"cityName": "格但斯克",
+"logo": "flag_of_poland"
+},
+{
+"id": "Geneva",
+"firstChar": "R",
+"diffTime": -7,
+"nationName": "瑞士",
+"cityName": "日内瓦",
+"logo": "flag_of_swaziland"
+},
+{
+"id": "Genoa",
+"firstChar": "R",
+"diffTime": -7,
+"nationName": "意大利",
+"cityName": "热那亚",
+"logo": "flag_of_italy"
+},
+{
+"id": "Gibraltar",
+"firstChar": "Z",
+"diffTime": -7,
+"nationName": "英国",
+"cityName": "直布罗陀",
+"logo": "flag_of_united_kingdom"
+},
+{
+"id": "Glasgow",
+"firstChar": "G",
+"diffTime": -8,
+"nationName": "英国",
+"cityName": "格拉斯哥",
+"logo": "flag_of_united_kingdom"
+},
+{
+"id": "Hamburg",
+"firstChar": "H",
+"diffTime": -7,
+"nationName": "德国",
+"cityName": "汉堡",
+"logo": "flag_of_germany"
+},
+{
+"id": "Helsinki",
+"firstChar": "H",
+"diffTime": -6,
+"nationName": "芬兰",
+"cityName": "赫尔辛基",
+"logo": "flag_of_finland"
+},
+{
+"id": "Istanbul",
+"firstChar": "Y",
+"diffTime": -6,
+"nationName": "土耳其",
+"cityName": "伊斯坦布尔",
+"logo": "flag_of_turkey"
+},
+{
+"id": "Kiev",
+"firstChar": "J",
+"diffTime": -5,
+"nationName": "乌克兰",
+"cityName": "基辅",
+"logo": "flag_of_ukraine"
+},
+{
+"id": "Leeds",
+"firstChar": "L",
+"diffTime": -8,
+"nationName": "英国",
+"cityName": "利兹",
+"logo": "flag_of_united_kingdom"
+},
+{
+"id": "Leipzig",
+"firstChar": "L",
+"diffTime": -7,
+"nationName": "德国",
+"cityName": "莱比锡",
+"logo": "flag_of_germany"
+},
+{
+"id": "Lisbon",
+"firstChar": "L",
+"diffTime": -8,
+"nationName": "葡萄牙",
+"cityName": "里斯本",
+"logo": "flag_of_portugal"
+},
+{
+"id": "Liverpool",
+"firstChar": "L",
+"diffTime": -8,
+"nationName": "英国",
+"cityName": "利物浦",
+"logo": "flag_of_united_kingdom"
+},
+{
+"id": "London",
+"diffTime": -8,
+"nationName": "英国",
+"cityName": "伦敦",
+"logo": "flag_of_united_kingdom"
+},
+{
+"id": "Madrid",
+"diffTime": -7,
+"nationName": "西班牙",
+"cityName": "马德里",
+"logo": "flag_of_spain"
+},
+{
+"id": "Manchester",
+"diffTime": -8,
+"nationName": "英国",
+"cityName": "曼彻斯特",
+"logo": "flag_of_united_kingdom"
+},
+{
+"id": "Marseilles",
+"diffTime": -7,
+"nationName": "法国",
+"cityName": "马塞",
+"logo": "flag_of_france"
+},
+{
+"id": "Milan",
+"diffTime": -7,
+"nationName": "意大利",
+"cityName": "米兰",
+"logo": "flag_of_italy"
+},
+{
+"id": "Moscow",
+"diffTime": -5,
+"nationName": "俄罗斯",
+"cityName": "莫斯科",
+"logo": "flag_of_russia"
+},
+{
+"id": "Munich",
+"diffTime": -7,
+"nationName": "德国",
+"cityName": "慕尼黑",
+"logo": "flag_of_germany"
+},
+{
+"id": "Murmansk",
+"diffTime": -5,
+"nationName": "俄罗斯",
+"cityName": "摩尔曼斯克",
+"logo": "flag_of_russia"
+},
+{
+"id": "Odessa",
+"diffTime": -5,
+"nationName": "乌克兰",
+"cityName": "敖德萨",
+"logo": "flag_of_ukraine"
+},
+{
+"id": "Oslo",
+"diffTime": -7,
+"nationName": "挪威",
+"cityName": "奥斯陆",
+"logo": "flag_of_norway"
+},
+{
+"id": "Paris",
+"diffTime": -7,
+"nationName": "法国",
+"cityName": "巴黎",
+"logo": "flag_of_france"
+},
+{
+"id": "Prague",
+"diffTime": -7,
+"nationName": "捷克",
+"cityName": "布拉格",
+"logo": "flag_of_czech_republic"
+},
+{
+"id": "Reykjavik",
+"diffTime": -8,
+"nationName": "冰岛",
+"cityName": "雷克雅未克",
+"logo": "flag_of_iceland"
+},
+{
+"id": "Rome",
+"diffTime": -7,
+"nationName": "意大利",
+"cityName": "罗马",
+"logo": "flag_of_italy"
+},
+{
+"id": "Rotterdam",
+"diffTime": -7,
+"nationName": "荷兰",
+"cityName": "鹿特丹",
+"logo": "flag_of_netherlands"
+},
+{
+"id": "St.Peterburg",
+"diffTime": -5,
+"nationName": "俄罗斯",
+"cityName": "圣彼得堡",
+"logo": "flag_of_russia"
+},
+{
+"id": "Sofia",
+"diffTime": -6,
+"nationName": "保加利亚",
+"cityName": "索非亚",
+"logo": "flag_of_bulgaria"
+},
+{
+"id": "Stockholm",
+"diffTime": -7,
+"nationName": "瑞典",
+"cityName": "斯德哥尔摩",
+"logo": "flag_of_sweden"
+},
+{
+"id": "Tirana",
+"diffTime": -7,
+"nationName": "阿尔巴尼亚",
+"cityName": "地拉那",
+"logo": "flag_of_albania"
+},
+{
+"id": "Vatican",
+"diffTime": -7,
+"nationName": "梵蒂冈",
+"cityName": "梵蒂冈",
+"logo": "flag_of_vatican"
+},
+{
+"id": "Venice",
+"diffTime": -7,
+"nationName": "意大利",
+"cityName": "威尼斯",
+"logo": "flag_of_italy"
+},
+{
+"id": "Vienna",
+"diffTime": -7,
+"nationName": "奥地利",
+"cityName": "维也纳",
+"logo": "flag_of_austria"
+},
+{
+"id": "Warsaw",
+"diffTime": -7,
+"nationName": "波兰",
+"cityName": "华沙",
+"logo": "flag_of_poland"
+},
+{
+"id": "Zurich",
+"diffTime": -7,
+"nationName": "瑞士",
+"cityName": "苏黎世",
+"logo": "flag_of_switzerland"
+}
+]

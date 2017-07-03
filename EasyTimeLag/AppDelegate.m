@@ -10,7 +10,7 @@
 #import "CommonMacro.h"
 
 #import <UMMobClick/MobClick.h>
-#import "LGSideMenuController.h"
+#import "RootViewController.h"
 
 @interface AppDelegate ()
 
@@ -21,30 +21,19 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
-    // 初始化umeng配置
+    //  初始化umeng配置
     [self initUmeng];
     
-    UIViewController *rootViewController = [UIViewController new];
-    UITableViewController *leftViewController = [UITableViewController new];
-    UITableViewController *rightViewController = [UITableViewController new];
-    rootViewController.view.backgroundColor = UIColorRandom;
-    leftViewController.view.backgroundColor = UIColorRandom;
-    rightViewController.view.backgroundColor = UIColorRandom;
+    //  全局UI配置
+    [[UINavigationBar appearance] setBarStyle:UIBarStyleBlack];
+    [[UINavigationBar appearance] setBarTintColor:APP_COLOR_PRIMARY_DARK];
+    [[UINavigationBar appearance] setTintColor:[UIColor whiteColor]];
     
-    UINavigationController *navigationController = [[UINavigationController alloc] initWithRootViewController:rootViewController];
-    
-    LGSideMenuController *sideMenuController = [LGSideMenuController sideMenuControllerWithRootViewController:navigationController
-                                                                                           leftViewController:leftViewController
-                                                                                          rightViewController:nil];
-    sideMenuController.leftViewWidth = 250.0;
-    sideMenuController.leftViewPresentationStyle = LGSideMenuPresentationStyleSlideAbove;
-    
-    //    sideMenuController.rightViewWidth = 100.0;
-    //    sideMenuController.leftViewPresentationStyle = LGSideMenuPresentationStyleSlideBelow;
-    
+    //  主vc
+    RootViewController *rootViewController = [[RootViewController alloc] init];
     self.window = [[UIWindow alloc] initWithFrame:UIScreen.mainScreen.bounds];
     self.window.backgroundColor = [UIColor whiteColor];
-    self.window.rootViewController = sideMenuController;
+    self.window.rootViewController = rootViewController;
     [self.window makeKeyAndVisible];
     
     return YES;

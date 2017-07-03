@@ -1,0 +1,121 @@
+[
+    {
+        "id": "Agana",
+        "diffTime": 2,
+        "nationName": "关岛",
+        "cityName": "阿加尼亚",
+        "logo": "flag_of_united_states"
+    },
+    {
+        "id": "Apia",
+        "diffTime": -19,
+        "nationName": "西萨摩亚",
+        "cityName": "阿皮亚",
+        "logo": "flag_of_samoa"
+    },
+    {
+        "id": "Auckland",
+        "diffTime": 4,
+        "nationName": "新西兰",
+        "cityName": "奥克兰",
+        "logo": "flag_of_new_zealand"
+    },
+    {
+        "id": "Brisbane",
+        "diffTime": 2,
+        "nationName": "澳大利亚",
+        "cityName": "布里斯班",
+        "logo": "flag_of_australia"
+    },
+    {
+        "id": "Canberra",
+        "diffTime": 2,
+        "nationName": "澳大利亚",
+        "cityName": "堪培拉",
+        "logo": "flag_of_australia"
+    },
+    {
+        "id": "Fremantle",
+        "diffTime": 0,
+        "nationName": "澳大利亚",
+        "cityName": "弗里曼特尔",
+        "logo": "flag_of_australia"
+    },
+    {
+        "id": "Hobart",
+        "diffTime": 2,
+        "nationName": "澳大利亚",
+        "cityName": "霍巴特",
+        "logo": "flag_of_australia"
+    },
+    {
+        "id": "Honolulu",
+        "diffTime": -18,
+        "nationName": "美国",
+        "cityName": "火奴鲁鲁",
+        "logo": "flag_of_united_states"
+    },
+    {
+        "id": "Melburne",
+        "diffTime": 2,
+        "nationName": "澳大利亚",
+        "cityName": "墨尔本",
+        "logo": "flag_of_australia"
+    },
+    {
+        "id": "Noumea",
+        "diffTime": 3,
+        "nationName": "法属新喀里多尼亚",
+        "cityName": "努美阿",
+        "logo": "flag_of_france"
+    },
+    {
+        "id": "Papeete",
+        "diffTime": -18,
+        "nationName": "法属波利尼西亚",
+        "cityName": "帕皮提",
+        "logo": "flag_of_france"
+    },
+    {
+        "id": "Perth",
+        "diffTime": 0,
+        "nationName": "澳大利亚",
+        "cityName": "佩思",
+        "logo": "flag_of_australia"
+    },
+    {
+        "id": "PortMoresby",
+        "diffTime": 2,
+        "nationName": "巴布亚新几内亚",
+        "cityName": "莫尔兹比港",
+        "logo": "flag_of_papua_new_guinea"
+    },
+    {
+        "id": "Suva",
+        "diffTime": 4,
+        "nationName": "斐济",
+        "cityName": "苏瓦",
+        "logo": "flag_of_fiji"
+    },
+    {
+        "id": "Sydney",
+        "diffTime": 2,
+        "nationName": "澳大利亚",
+        "cityName": "悉尼",
+        "logo": "flag_of_australia"
+    },
+    {
+        "id": "vila",
+        "diffTime": 3,
+        "nationName": "瓦努阿图",
+        "cityName": "维拉港",
+        "logo": "flag_of_vanuatu"
+    },
+    {
+        "id": "Wellington",
+        "diffTime": 4,
+        "nationName": "新西兰",
+        "cityName": "惠灵顿",
+        "logo": "flag_of_new_zealand"
+    }
+]

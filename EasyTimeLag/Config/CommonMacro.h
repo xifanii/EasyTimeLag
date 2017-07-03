@@ -102,6 +102,12 @@
 #define HEIGHT_OF_TOP_BAR   64.f
 #define HEIGHT_OF_TOOL_BAR   44.f
 
+///  标注基于iPhone6，计算屏幕与iPhone6屏幕的比例，进行适配
+#define SCALE_OF_IPHONE6_SCREEN ([[UIScreen mainScreen] bounds].size.width/375.)
+
+#define MAXFONT(SIZE) (MAX(SIZE*SCALE_OF_IPHONE6_SCREEN, SIZE))
+#define MINFONT(SIZE) (MIN(SIZE*SCALE_OF_IPHONE6_SCREEN, SIZE))
+
 /// 文本
 #define TEXTRECT(text, constraintSize, font) [text boundingRectWithSize:constraintSize options:NSStringDrawingUsesLineFragmentOrigin|NSStringDrawingUsesFontLeading attributes:@{NSFontAttributeName:font } context:nil]
 
@@ -178,9 +184,10 @@ View.backgroundColor = [UIColor colorWithRed:arc4random_uniform(255)/255.0 green
 #define MAIN_BAR_HEIGHT 38.f
 
 
-//  系统主题颜色
-#define APP_COLOR_               UIColorFromRGB(0xdcdcdc)
-#define APP_COLOR_BLACK          UIColorFromRGB(0x333333)
+///////////////////////////  系统主题颜色  ////////////////////////////
+
+#define APP_COLOR_PRIMARY_DARK        UIColorFromRGB(0x37474f)   //主题色
+#define APP_COLOR_BLACK               UIColorFromRGB(0x333333)
 
 
 #endif /* CommonMacro_h */

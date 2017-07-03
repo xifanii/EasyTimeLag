@@ -1,0 +1,296 @@
+[
+    {
+        "id": "Abidjan",
+        "diffTime": -8,
+        "nationName": "科特迪瓦",
+        "cityName": "阿比让",
+        "logo": "flag_of_cote_d_lvoire"
+    },
+    {
+        "id": "AddisAbaba",
+        "diffTime": -5,
+        "nationName": "埃塞俄比亚",
+        "cityName": "亚的斯亚贝巴",
+        "logo": "flag_of_ethiopia"
+    },
+    {
+        "id": "Alexandria",
+        "diffTime": -6,
+        "nationName": "埃及",
+        "cityName": "亚历山大",
+        "logo": "flag_of_egypt"
+    },
+    {
+        "id": "Algiers",
+        "diffTime": -7,
+        "nationName": "阿尔及利亚",
+        "cityName": "阿尔及尔",
+        "logo": "flag_of_algeria"
+    },
+    {
+        "id": "Bamako",
+        "diffTime": -8,
+        "nationName": "马里",
+        "cityName": "巴马科",
+        "logo": "flag_of_mali"
+    },
+    {
+        "id": "Beira",
+        "diffTime": -6,
+        "nationName": "莫桑比克",
+        "cityName": "贝拉",
+        "logo": "flag_of_mozambique"
+    },
+    {
+        "id": "Brazzaville",
+        "diffTime": -7,
+        "nationName": "刚果",
+        "cityName": "布拉柴维尔",
+        "logo": "flag_of_republic_of_the_congo"
+    },
+    {
+        "id": "Cairo",
+        "diffTime": -6,
+        "nationName": "埃及",
+        "cityName": "开罗",
+        "logo": "flag_of_egypt"
+    },
+    {
+        "id": "CapeTown",
+        "diffTime": -6,
+        "nationName": "南非",
+        "cityName": "开普敦",
+        "logo": "flag_of_south_africa"
+    },
+    {
+        "id": "Dakar",
+        "diffTime": -8,
+        "nationName": "塞内加尔",
+        "cityName": "达喀尔",
+        "logo": "flag_of_senegal"
+    },
+    {
+        "id": "DarelBeida",
+        "diffTime": -8,
+        "nationName": "摩洛哥",
+        "cityName": "达尔贝达",
+        "logo": "flag_of_morocco"
+    },
+    {
+        "id": "DaresSalaam",
+        "diffTime": -5,
+        "nationName": "坦桑尼亚",
+        "cityName": "达累斯萨拉姆",
+        "logo": "flag_of_tanzania"
+    },
+    {
+        "id": "Djibouti",
+        "diffTime": -5,
+        "nationName": "吉布提",
+        "cityName": "吉布提",
+        "logo": "flag_of_djibouti"
+    },
+    {
+        "id": "Douala",
+        "diffTime": -7,
+        "nationName": "喀麦隆",
+        "cityName": "杜阿拉",
+        "logo": "flag_of_cameroon"
+    },
+    {
+        "id": "Durban",
+        "diffTime": -6,
+        "nationName": "南非",
+        "cityName": "德班",
+        "logo": "flag_of_south_africa"
+    },
+    {
+        "id": "Gaborone",
+        "diffTime": -6,
+        "nationName": "博茨瓦纳",
+        "cityName": "哈博罗内",
+        "logo": "flag_of_botswana"
+    },
+    {
+        "id": "Johannesburg",
+        "diffTime": -6,
+        "nationName": "南非",
+        "cityName": "约翰内斯堡",
+        "logo": "flag_of_south_africa"
+    },
+    {
+        "id": "Kampala",
+        "diffTime": -5,
+        "nationName": "乌干达",
+        "cityName": "坎帕拉",
+        "logo": "flag_of_uganda"
+    },
+    {
+        "id": "Kano",
+        "diffTime": -7,
+        "nationName": "尼日利亚",
+        "cityName": "卡诺",
+        "logo": ""
+    },
+    {
+        "id": "Khartoum",
+        "diffTime": -6,
+        "nationName": "苏丹",
+        "cityName": "喀土穆",
+        "logo": ""
+    },
+    {
+        "id": "Kinshasa",
+        "diffTime": -7,
+        "nationName": "民主刚果",
+        "cityName": "金沙萨",
+        "logo": ""
+    },
+    {
+        "id": "Lagos",
+        "diffTime": -7,
+        "nationName": "尼日利亚",
+        "cityName": "拉各斯",
+        "logo": "flag_of_nigeria"
+    },
+    {
+        "id": "LasPalmas",
+        "diffTime": -8,
+        "nationName": "加那利群岛",
+        "cityName": "拉斯帕耳马斯",
+        "logo": "flag_of_spain"
+    },
+    {
+        "id": "Luanda",
+        "diffTime": -7,
+        "nationName": "安哥拉",
+        "cityName": "罗安达",
+        "logo": "flag_of_angola"
+    },
+    {
+        "id": "Lusaka",
+        "diffTime": -6,
+        "nationName": "赞比亚",
+        "cityName": "卢萨卡",
+        "logo": "flag_of_zambia"
+    },
+    {
+        "id": "Maputo",
+        "diffTime": -6,
+        "nationName": "莫桑比克",
+        "cityName": "马普托",
+        "logo": "flag_of_mozambique"
+    },
+    {
+        "id": "Mogadishu",
+        "diffTime": -5,
+        "nationName": "索马里",
+        "cityName": "摩加迪沙",
+        "logo": "flag_of_somalia"
+    },
+    {
+        "id": "Mombasa",
+        "diffTime": -5,
+        "nationName": "肯尼亚",
+        "cityName": "蒙巴萨",
+        "logo": "flag_of_kenya"
+    },
+    {
+        "id": "Monrovia",
+        "diffTime": -8,
+        "nationName": "利比里亚",
+        "cityName": "蒙罗维亚",
+        "logo": "flag_of_liberia"
+    },
+    {
+        "id": "Nairobi",
+        "diffTime": -5,
+        "nationName": "肯尼亚",
+        "cityName": "内罗毕",
+        "logo": "flag_of_kenya"
+    },
+    {
+        "id": "Ndjamena",
+        "diffTime": -7,
+        "nationName": "乍得",
+        "cityName": "恩贾梅纳",
+        "logo": "flag_of_chad"
+    },
+    {
+        "id": "Niamey",
+        "diffTime": -8,
+        "nationName": "尼日尔",
+        "cityName": "尼亚美",
+        "logo": "flag_of_niger"
+    },
+    {
+        "id": "Nouakchott",
+        "diffTime": -8,
+        "nationName": "毛里塔尼亚",
+        "cityName": "努瓦克肖特",
+        "logo": "flag_of_mauritania"
+    },
+    {
+        "id": "PointeNoire",
+        "diffTime": -7,
+        "nationName": "刚果",
+        "cityName": "黑角",
+        "logo": "flag_of_republic_of_the_congo"
+    },
+    {
+        "id": "PortLouis",
+        "diffTime": -4,
+        "nationName": "毛里求斯",
+        "cityName": "路易港",
+        "logo": "flag_of_mauritius"
+    },
+    {
+        "id": "Pretoria",
+        "diffTime": -6,
+        "nationName": "南非",
+        "cityName": "比勒陀利亚",
+        "logo": "flag_of_south_africa"
+    },
+    {
+        "id": "Rabat",
+        "diffTime": -8,
+        "nationName": "摩洛哥",
+        "cityName": "拉巴特",
+        "logo": "flag_of_morocco"
+    },
+    {
+        "id": "SaoTome",
+        "diffTime": -8,
+        "nationName": "圣多美和普林西比",
+        "cityName": "圣多美",
+        "logo": "flag_of_sao_tome_and_principe"
+    },
+    {
+        "id": "Tananarive",
+        "diffTime": -5,
+        "nationName": "马达加斯加",
+        "cityName": "塔那那利佛",
+        "logo": "flag_of_madagascar"
+    },
+    {
+        "id": "Tripoli",
+        "diffTime": -6,
+        "nationName": "利比亚",
+        "cityName": "的黎波里",
+        "logo": "flag_of_libya"
+    },
+    {
+        "id": "Tunis",
+        "diffTime": -7,
+        "nationName": "突尼斯",
+        "cityName": "突尼斯",
+        "logo": "flag_of_tunisia"
+    },
+    {
+        "id": "Windhoek",
+        "diffTime": -6,
+        "nationName": "纳米比亚",
+        "cityName": "温得和克",
+        "logo": "flag_of_namibia"
+    }
+]

@@ -1,0 +1,354 @@
+[
+	{
+        "id": "Abadan",
+        "firstChar": "A",
+        "diffTime": -4.5,
+        "nationName": "伊朗",
+        "cityName": "阿巴丹",
+        "logo": "flag_of_iran"
+    },
+    {
+        "id": "AbuDhabi",
+        "firstChar": "A",
+        "diffTime": -4,
+        "nationName": "阿联酋",
+        "cityName": "阿布扎比",
+        "logo": "flag_of_united_arab_emirates"
+    },
+    {
+        "id": "Aden",
+        "firstChar": "Y",
+        "diffTime": -5,
+        "nationName": "也门",
+        "cityName": "亚丁",
+        "logo": "flag_of_yemen"
+    },
+  	{
+        "id": "Amman",
+        "firstChar": "A",
+        "diffTime": -6,
+        "nationName": "约旦",
+        "cityName": "安曼",
+        "logo": "flag_of_jordan"
+    },
+    {
+        "id": "Ankara",
+        "firstChar": "A",
+        "diffTime": -6,
+        "nationName": "土耳其",
+        "cityName": "安卡拉",
+        "logo": "flag_of_turkey"
+    },
+    {
+        "id": "Baghdad",
+        "firstChar": "B",
+        "diffTime": -5,
+        "nationName": "伊拉克",
+        "cityName": "巴格达",
+        "logo": "flag_of_iraq"
+    },
+    {
+        "id": "Baku",
+        "firstChar": "B",
+        "diffTime": -6,
+        "nationName": "阿塞拜疆",
+        "cityName": "巴库",
+        "logo": "flag_of_azerbaijan"
+    },
+    {
+        "id": "BandarSeriBegawan",
+        "firstChar": "S",
+        "diffTime": 0,
+        "nationName": "文莱",
+        "cityName": "斯里巴加湾港",
+        "logo": "flag_of_brunei"
+    },
+    {
+        "id": "Bangkok",
+        "firstChar": "M",
+        "diffTime": -1,
+        "nationName": "泰国",
+        "cityName": "曼谷",
+        "logo": "flag_of_thailand"
+    },
+    {
+        "id": "Beirut",
+        "firstChar": "B",
+        "diffTime": -6,
+        "nationName": "黎巴嫩",
+        "cityName": "贝鲁特",
+        "logo": "flag_of_lebanon"
+    },
+    {
+        "id": "Bombay",
+        "firstChar": "M",
+        "diffTime": -2.5,
+        "nationName": "印度",
+        "cityName": "孟买",
+        "logo": "flag_of_india"
+    },
+    {
+        "id": "Calcutta",
+        "firstChar": "J",
+        "diffTime": -2.5,
+        "nationName": "印度",
+        "cityName": "加尔各答",
+        "logo": "flag_of_india"
+    },
+    {
+        "id": "Colombo",
+        "firstChar": "K",
+        "diffTime": -2.5,
+        "nationName": "斯里兰卡",
+        "cityName": "科伦坡",
+        "logo": "flag_of_sri_lanka"
+    },
+    {
+        "id": "Damascus",
+        "firstChar": "D",
+        "diffTime": -6,
+        "nationName": "叙利亚",
+        "cityName": "大马士革",
+        "logo": "flag_of_syria"
+    },
+    {
+        "id": "Dhaka",
+        "firstChar": "D",
+        "diffTime": -2,
+        "nationName": "孟加拉国",
+        "cityName": "达卡",
+        "logo": "flag_of_bangladesh"
+    },
+    {
+        "id": "Djakarta",
+        "firstChar": "Y",
+        "diffTime": -1,
+        "nationName": "印度尼西亚",
+        "cityName": "雅加达",
+        "logo": "flag_of_indonesia"
+    },
+    {
+        "id": "Hanoi",
+        "firstChar": "H",
+        "diffTime": -1,
+        "nationName": "越南",
+        "cityName": "河内",
+        "logo": "flag_of_vietnam"
+    },
+    {
+        "id": "Irkutsk",
+        "firstChar": "Y",
+        "diffTime": 0,
+        "nationName": "俄罗斯",
+        "cityName": "伊尔库次克",
+        "logo": "flag_of_russia"
+    },
+    {
+        "id": "Islamabad",
+        "firstChar": "Y",
+        "diffTime": -3,
+        "nationName": "巴基斯坦",
+        "cityName": "伊斯兰堡",
+        "logo": "flag_of_pakistan"
+    },
+    {
+        "id": "Jerusalem",
+        "firstChar": "Y",
+        "diffTime": -6,
+        "nationName": "巴勒斯坦",
+        "cityName": "耶路撒冷",
+        "logo": "flag_of_palestine"
+    },
+    {
+        "id": "Karachi",
+        "firstChar": "K",
+        "diffTime": -3,
+        "nationName": "巴基斯坦",
+        "cityName": "卡拉奇",
+        "logo": "flag_of_pakistan"
+    },
+    {
+        "id": "Katmandu",
+        "firstChar": "J",
+        "diffTime": -2.5,
+        "nationName": "尼泊尔",
+        "cityName": "加德满都",
+        "logo": "flag_of_nepal"
+    },
+    {
+        "id": "KualaLumpur",
+        "firstChar": "J",
+        "diffTime": 0,
+        "nationName": "马来西亚",
+        "cityName": "吉隆坡",
+        "logo": "flag_of_malaysia"
+    },
+    {
+        "id": "Kuwait",
+        "firstChar": "K",
+        "diffTime": -5,
+        "nationName": "科威特",
+        "cityName": "科威特",
+        "logo": "flag_of_kuwait"
+    },
+    {
+        "id": "Kyoto",
+        "firstChar": "J",
+        "diffTime": 1,
+        "nationName": "日本",
+        "cityName": "京都",
+        "logo": "flag_of_japan"
+    },
+    {
+        "id": "Manila",
+        "firstChar": "M",
+        "diffTime": 0,
+        "nationName": "菲律宾",
+        "cityName": "马尼拉",
+        "logo": "flag_of_philippines"
+    },
+    {
+        "id": "Mecca",
+        "firstChar": "M",
+        "diffTime": -5,
+        "nationName": "沙特阿拉伯",
+        "cityName": "麦加",
+        "logo": "flag_of_saudi_arabia"
+    },
+    {
+        "id": "Nagasaki",
+        "firstChar": "C",
+        "diffTime": 1,
+        "nationName": "日本",
+        "cityName": "长崎",
+        "logo": "flag_of_japan"
+    },
+    {
+        "id": "NewDelhi",
+        "firstChar": "X",
+        "diffTime": -2.5,
+        "nationName": "印度",
+        "cityName": "新德里",
+        "logo": "flag_of_india"
+    },
+    {
+        "id": "NikolayevskonAmure",
+        "firstChar": "N",
+        "diffTime": 1,
+        "nationName": "俄罗斯",
+        "cityName": "尼古拉耶夫斯克",
+        "logo": "flag_of_russia"
+    },
+    {
+        "id": "Omsk",
+        "firstChar": "E",
+        "diffTime": -3,
+        "nationName": "俄罗斯",
+        "cityName": "鄂木斯克",
+        "logo": "flag_of_russia"
+    },
+    {
+        "id": "Osaka",
+        "firstChar": "D",
+        "diffTime": 1,
+        "nationName": "日本",
+        "cityName": "大阪",
+        "logo": "flag_of_japan"
+    },
+    {
+        "id": "PhnomPenh",
+        "firstChar": "J",
+        "diffTime": -1,
+        "nationName": "柬埔寨",
+        "cityName": "金边",
+        "logo": "flag_of_cambodia"
+    },
+    {
+        "id": "Pyongyang",
+        "firstChar": "P",
+        "diffTime": 1,
+        "nationName": "朝鲜",
+        "cityName": "平壤",
+        "logo": "flag_of_north_korea"
+    },
+    {
+        "id": "Rangoon",
+        "firstChar": "Y",
+        "diffTime": -1.5,
+        "nationName": "缅甸",
+        "cityName": "仰光",
+        "logo": "flag_of_burma"
+    },
+    {
+        "id": "Rawalpindi",
+        "firstChar": "L",
+        "diffTime": -3,
+        "nationName": "巴基斯坦",
+        "cityName": "拉瓦尔品第",
+        "logo": "flag_of_pakistan"
+    },
+    {
+        "id": "Seoul",
+        "firstChar": "H",
+        "diffTime": 1,
+        "nationName": "南朝鲜",
+        "cityName": "汉城",
+        "logo": "flag_of_south_korea"
+    },
+    {
+        "id": "Singapore",
+        "firstChar": "X",
+        "diffTime": 1,
+        "nationName": "新加坡",
+        "cityName": "新加坡",
+        "logo": "flag_of_singapore"
+    },
+    {
+        "id": "Tehran",
+        "firstChar": "D",
+        "diffTime": -4.5,
+        "nationName": "伊朗",
+        "cityName": "德黑兰",
+        "logo": "flag_of_iran"
+    },
+    {
+        "id": "Tokyo",
+        "firstChar": "D",
+        "diffTime": 1,
+        "nationName": "日本",
+        "cityName": "东京",
+        "logo": "flag_of_japan"
+    },
+    {
+        "id": "UlanBator",
+        "firstChar": "W",
+        "diffTime": 0,
+        "nationName": "蒙古",
+        "cityName": "乌兰巴托",
+        "logo": "flag_of_mongolia"
+    },
+        {
+        "id": "Vladivostok",
+        "firstChar": "F",
+        "diffTime": 2,
+        "nationName": "俄罗斯",
+        "cityName": "符拉迪沃斯托克",
+        "logo": "flag_of_russia"
+    },
+        {
+        "id": "Yokohama",
+        "firstChar": "H",
+        "diffTime": 1,
+        "nationName": "日本",
+        "cityName": "横滨",
+        "logo": "flag_of_japan"
+    },
+    {
+        "id": "Beijing",
+        "firstChar": "B",
+        "diffTime": 0,
+        "nationName": "中国",
+        "cityName": "北京",
+        "logo": "flag_of_china"
+    }
+]

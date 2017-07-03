@@ -1,0 +1,338 @@
+[
+    {
+        "id": "Anchorage",
+        "diffTime": -17,
+        "nationName": "美国",
+        "cityName": "安克雷奇",
+        "logo": "flag_of_united_states"
+    },
+    {
+        "id": "Asuncion",
+        "diffTime": -12,
+        "nationName": "巴拉圭",
+        "cityName": "亚松森",
+        "logo": "flag_of_paraguay"
+    },
+    {
+        "id": "Atlanta",
+        "diffTime": -13,
+        "nationName": "美国",
+        "cityName": "亚特兰大",
+        "logo": "flag_of_united_states"
+    },
+    {
+        "id": "Baltimore",
+        "diffTime": -13,
+        "nationName": "美国",
+        "cityName": "巴尔的摩",
+        "logo": "flag_of_united_states"
+    },
+    {
+        "id": "Belem",
+        "diffTime": -11,
+        "nationName": "巴西",
+        "cityName": "贝伦",
+        "logo": "flag_of_brazil"
+    },
+    {
+        "id": "Bogota",
+        "diffTime": -13,
+        "nationName": "哥伦比亚",
+        "cityName": "波哥大",
+        "logo": "flag_of_colombia"
+    },
+    {
+        "id": "Brasilia",
+        "diffTime": -11,
+        "nationName": "巴西",
+        "cityName": "巴西利亚",
+        "logo": "flag_of_brazil"
+    },
+    {
+        "id": "BuenosAires",
+        "diffTime": -11,
+        "nationName": "阿根廷",
+        "cityName": "布宜诺斯艾利斯",
+        "logo": "flag_of_argentina"
+    },
+    {
+        "id": "Caracas",
+        "diffTime": -12,
+        "nationName": "委内瑞拉",
+        "cityName": "加拉加斯",
+        "logo": "flag_of_venezuela"
+    },
+    {
+        "id": "Chicago",
+        "diffTime": -14,
+        "nationName": "美国",
+        "cityName": "芝加哥",
+        "logo": "flag_of_united_states"
+    },
+    {
+        "id": "Churchill",
+        "diffTime": -14,
+        "nationName": "加拿大",
+        "cityName": "丘吉尔港",
+        "logo": "flag_of_canada"
+    },
+    {
+        "id": "Colon",
+        "diffTime": -13,
+        "nationName": "巴拿马",
+        "cityName": "科隆",
+        "logo": "flag_of_panama"
+    },
+    {
+        "id": "Dallas",
+        "diffTime": -14,
+        "nationName": "美国",
+        "cityName": "达拉斯",
+        "logo": "flag_of_united_states"
+    },
+    {
+        "id": "Denver",
+        "diffTime": -15,
+        "nationName": "美国",
+        "cityName": "丹佛",
+        "logo": "flag_of_united_states"
+    },
+    {
+        "id": "Detroit",
+        "diffTime": -13,
+        "nationName": "美国",
+        "cityName": "底特律",
+        "logo": "flag_of_united_states"
+    },
+    {
+        "id": "Edmonton",
+        "diffTime": -15,
+        "nationName": "加拿大",
+        "cityName": "埃德蒙顿",
+        "logo": "flag_of_canada"
+    },
+    {
+        "id": "Havana",
+        "diffTime": -13,
+        "nationName": "古巴",
+        "cityName": "哈瓦那",
+        "logo": "flag_of_cuba"
+    },
+    {
+        "id": "Houston",
+        "diffTime": -14,
+        "nationName": "美国",
+        "cityName": "休斯敦",
+        "logo": "flag_of_united_states"
+    },
+    {
+        "id": "Kingston",
+        "diffTime": -13,
+        "nationName": "牙买加",
+        "cityName": "金斯敦",
+        "logo": "flag_of_jamaica"
+    },
+    {
+        "id": "LaPaz",
+        "diffTime": -12,
+        "nationName": "玻利维亚",
+        "cityName": "拉巴斯",
+        "logo": "flag_of_bolivia"
+    },
+    {
+        "id": "LasVegas",
+        "diffTime": -16,
+        "nationName": "美国",
+        "cityName": "拉斯韦加斯",
+        "logo": "flag_of_united_states"
+    },
+    {
+        "id": "Lima",
+        "diffTime": -13,
+        "nationName": "秘鲁",
+        "cityName": "利马",
+        "logo": "flag_of_peru"
+    },
+    {
+        "id": "LosAngeles",
+        "diffTime": -16,
+        "nationName": "美国",
+        "cityName": "洛杉矶",
+        "logo": "flag_of_united_states"
+    },
+    {
+        "id": "MexicoCity",
+        "diffTime": -14,
+        "nationName": "墨西哥",
+        "cityName": "墨西哥城",
+        "logo": "flag_of_mexico"
+    },
+    {
+        "id": "Miami",
+        "diffTime": -13,
+        "nationName": "美国",
+        "cityName": "迈阿密",
+        "logo": "flag_of_united_states"
+    },
+    {
+        "id": "Montevideo",
+        "diffTime": -11,
+        "nationName": "乌拉圭",
+        "cityName": "蒙得维的亚",
+        "logo": "flag_of_uruguay"
+    },
+    {
+        "id": "Montreal",
+        "diffTime": -13,
+        "nationName": "加拿大",
+        "cityName": "蒙特利尔",
+        "logo": "flag_of_canada"
+    },
+    {
+        "id": "NewOrleans",
+        "diffTime": -14,
+        "nationName": "美国",
+        "cityName": "新奥尔良",
+        "logo": "flag_of_united_states"
+    },
+    {
+        "id": "NewYork",
+        "diffTime": -13,
+        "nationName": "美国",
+        "cityName": "纽约",
+        "logo": "flag_of_united_states"
+    },
+    {
+        "id": "Ottawa",
+        "diffTime": -13,
+        "nationName": "加拿大",
+        "cityName": "渥太华",
+        "logo": "flag_of_canada"
+    },
+    {
+        "id": "Panama",
+        "diffTime": -13,
+        "nationName": "巴拿马",
+        "cityName": "巴拿马城",
+        "logo": "flag_of_panama"
+    },
+    {
+        "id": "Paramaribo",
+        "diffTime": -11,
+        "nationName": "苏里南",
+        "cityName": "帕拉马里博",
+        "logo": "flag_of_suriname"
+    },
+    {
+        "id": "Philadelphia",
+        "diffTime": -13,
+        "nationName": "美国",
+        "cityName": "费城",
+        "logo": "flag_of_united_states"
+    },
+    {
+        "id": "Pittsburgh",
+        "diffTime": -13,
+        "nationName": "美国",
+        "cityName": "匹兹堡",
+        "logo": "flag_of_united_states"
+    },
+    {
+        "id": "PortofSpain",
+        "diffTime": -12,
+        "nationName": "特立尼达和多巴哥",
+        "cityName": "西班牙港",
+        "logo": "flag_of_trinidad_and_tobago"
+    },
+    {
+        "id": "Quebec",
+        "diffTime": -13,
+        "nationName": "加拿大",
+        "cityName": "魁北克",
+        "logo": "flag_of_canada"
+    },
+    {
+        "id": "Riadejaneiro",
+        "diffTime": -11,
+        "nationName": "巴西",
+        "cityName": "里约热内卢",
+        "logo": "flag_of_brazil"
+    },
+    {
+        "id": "saintLouis",
+        "diffTime": -14,
+        "nationName": "美国",
+        "cityName": "圣路易斯",
+        "logo": "flag_of_united_states"
+    },
+    {
+        "id": "SaltLakeCity",
+        "diffTime": -15,
+        "nationName": "美国",
+        "cityName": "盐湖城",
+        "logo": "flag_of_united_states"
+    },
+    {
+        "id": "SanDiego",
+        "diffTime": -16,
+        "nationName": "美国",
+        "cityName": "圣迭戈",
+        "logo": "flag_of_united_states"
+    },
+    {
+        "id": "SanFrancisco",
+        "diffTime": -16,
+        "nationName": "美国",
+        "cityName": "旧金山",
+        "logo": "flag_of_united_states"
+    },
+    {
+        "id": "SanJuan",
+        "diffTime": -12,
+        "nationName": "波多黎各",
+        "cityName": "圣胡安",
+        "logo": "flag_of_puerto_rico"
+    },
+    {
+        "id": "Santiago",
+        "diffTime": -12,
+        "nationName": "智利",
+        "cityName": "圣地亚哥",
+        "logo": "flag_of_chile"
+    },
+    {
+        "id": "Seattle",
+        "diffTime": -16,
+        "nationName": "美国",
+        "cityName": "西雅图",
+        "logo": "flag_of_united_states"
+    },
+    {
+        "id": "Toronto",
+        "diffTime": -13,
+        "nationName": "加拿大",
+        "cityName": "多伦多",
+        "logo": "flag_of_canada"
+    },
+    {
+        "id": "Vancouver",
+        "diffTime": -16,
+        "nationName": "加拿大",
+        "cityName": "温哥华",
+        "logo": "flag_of_canada"
+    },
+    {
+        "id": "Washington",
+        "diffTime": -13,
+        "nationName": "美国",
+        "cityName": "华盛顿",
+        "logo": "flag_of_united_states"
+    },
+    {
+        "id": "Winnipeg",
+        "diffTime": -14,
+        "nationName": "加拿大",
+        "cityName": "温尼伯",
+        "logo": "flag_of_canada"
+    }
+]
